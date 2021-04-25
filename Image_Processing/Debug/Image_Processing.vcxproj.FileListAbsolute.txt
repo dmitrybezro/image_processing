@@ -1,0 +1,7 @@
+C:\Users\bezro\source\repos\Image_Processing\Image_Processing\Debug\Image_Processing.vcxprojAssemblyReference.cache
+C:\Users\bezro\source\repos\Image_Processing\Image_Processing\Debug\ImageProcessing.MyForm.resources
+C:\Users\bezro\source\repos\Image_Processing\Image_Processing\Debug\Image_Processing.vcxproj.GenerateResource.cache
+D:\Programming\CG\Lab_1\Image_Processing\Image_Processing\Debug\Image_Processing.vcxprojAssemblyReference.cache
+D:\Programming\CG\Lab_1\Image_Processing\Image_Processing\Debug\ImageProcessing.MyForm.resources
+D:\Programming\CG\Lab_1\Image_Processing\Image_Processing\Debug\Image_Processing.vcxproj.GenerateResource.cache
+D:\Programming\CG\Lab_1\Image_Processing\Image_Processing\Debug\ImageProcessing.MyForm1.resources
